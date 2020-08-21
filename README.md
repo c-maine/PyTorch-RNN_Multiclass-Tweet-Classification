@@ -6,5 +6,5 @@ Objective: Our initial objective was to build an RNN capable of performing a bin
  
 This repo contains 2 notebooks:
 
-- Biclass classification notebook contains the methodology and results for the binary and multiclass models and the code for the binary models.
-- Multiclass classification notebook contains the code for the multi-class models notebook.
+- [Biclass classification notebook](https://github.com/c-maine/PyTorch-RNN_Multiclass-Tweet-Classification/blob/master/biclass_RNN.ipynb) contains the methodology and results for the binary and multiclass models and the code for the binary models.
+- [Multiclass classification notebook](https://github.com/c-maine/PyTorch-RNN_Multiclass-Tweet-Classification/blob/master/multiclass_RNN.ipynb) contains the code for the multi-class models notebook.
